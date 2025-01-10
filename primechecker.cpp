@@ -19,7 +19,7 @@ int main()
         }
     }
 
-    if(prime == 2) 
+    if(CountDivisors == 2) 
     {
         cout<<n<<" is a prime number.\n";
     }
